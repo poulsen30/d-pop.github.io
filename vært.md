@@ -5,7 +5,7 @@ title: "Bliv vært"
 
 
 Hvem som helst kan blive vært for et lokalt D-Pop-arrangement.
-En typisk vært er læreren i programmering eller matematik på en ungdomsuddannelserne, en privatperson, et institut for datalogi, en forening for sociale aktiviteter på en arbejdsplads, en hobbyprogrammeringsklub, en forening, festudvalget på et kollegium, en højskole, osv.
+En typisk vært er læreren i programmering eller matematik på en ungdomsuddannelse, en privatperson, et institut for datalogi, en forening for sociale aktiviteter på en arbejdsplads, en hobbyprogrammeringsklub, en forening, festudvalget på et kollegium, en højskole, osv.
 
 Det koster ingenting og man forpligter sig til ingenting.
 
